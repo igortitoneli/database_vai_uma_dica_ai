@@ -1,4 +1,4 @@
-# Vai Uma Dica Ai Development Database
+# Vai Uma Dica Ai Database
 
 ## Subindo os bancos de dados
 1. Crie um arquivo chamado `.env` na raiz do repositório. Você pode usar arquivo
