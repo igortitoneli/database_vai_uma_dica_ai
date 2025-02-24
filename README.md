@@ -1,4 +1,4 @@
-# The White Rabbit Development Database
+# Vai Uma Dica Ai Development Database
 
 ## Subindo os bancos de dados
 1. Crie um arquivo chamado `.env` na raiz do repositório. Você pode usar arquivo
