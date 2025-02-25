@@ -4,7 +4,7 @@
 1. Crie um arquivo chamado `.env` na raiz do repositório. Você pode usar arquivo
    `.env.example` como base.
 
-2. Caso a rede `docker-db` não esteja criada crie com o comando:
+2. Caso a rede `db-vuda-net` não esteja criada crie com o comando:
 ```sh
 docker network create --driver=bridge db-vuda-net
 ```
